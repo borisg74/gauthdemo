@@ -1,0 +1,9 @@
+target/**
+.settings/**
+.project
+.classpath
+.mvn
+run.bat
+build.bat
+test.bat
+/target/
